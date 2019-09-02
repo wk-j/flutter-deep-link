@@ -7,3 +7,6 @@ on Flutter
 ![Game Play](images/a2-2.gif)
 ![Game Play](images/a3.gif)
 
+```bash
+/usr/bin/xcrun simctl openurl booted  https://benzneststudios.com
+```
